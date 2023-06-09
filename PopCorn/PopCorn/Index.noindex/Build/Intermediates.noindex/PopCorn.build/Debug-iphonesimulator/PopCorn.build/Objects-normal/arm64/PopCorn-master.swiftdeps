@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d9548fa0f82e682653123b3272424578dced4be7c0ca8e2da66a0ff2dbb4b93c"
+build_start_time: [1681800945, 405596017]
+build_end_time: [1681800948, 163357019]
+inputs:
+  "/Users/digital/Documents/tp2/PopCorn/PopCorn/ContentView.swift": [1681800862, 817447662]
+  "/Users/digital/Documents/tp2/PopCorn/PopCorn/MovieDetailView.swift": [1681741765, 954945087]
+  "/Users/digital/Documents/tp2/PopCorn/PopCorn/MoviesView.swift": [1681716053, 893009185]
+  "/Users/digital/Documents/tp2/PopCorn/PopCorn/PopCornApp.swift": [1681800850, 320760011]
+  "/Users/digital/Documents/tp2/PopCorn/PopCorn/datas.swift": [1681715556, 706096887]

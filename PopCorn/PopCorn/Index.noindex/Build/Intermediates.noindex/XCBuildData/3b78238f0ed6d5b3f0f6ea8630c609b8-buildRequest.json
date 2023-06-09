@@ -1,0 +1,65 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "45827e4ca1bb0e598f99c16b78e7b23826604bfb59ecdb04ab5fe03395582c12"
+    },
+    {
+      "guid" : "45827e4ca1bb0e598f99c16b78e7b2389f3978803d860da4ee5aa9885ba88aa5"
+    },
+    {
+      "guid" : "45827e4ca1bb0e598f99c16b78e7b238642b9a9a7bdd9c3a6eb45a800e6d87bf"
+    }
+  ],
+  "containerPath" : "/Users/digital/Documents/tp2/PopCorn/PopCorn.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/digital/Documents/tp2/PopCorn/PopCorn/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/digital/Documents/tp2/PopCorn/PopCorn/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/digital/Documents/tp2/PopCorn",
+      "indexDataStoreFolderPath" : "/Users/digital/Documents/tp2/PopCorn/PopCorn/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/digital/Documents/tp2/PopCorn/PopCorn/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/digital/Documents/tp2/PopCorn/PopCorn/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/digital/Documents/tp2/PopCorn/PopCorn/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

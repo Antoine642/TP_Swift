@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+PopCorn in PopCorn, no dependencies
+PopCorn in PopCorn, no dependencies
+PopCornTests in PopCorn, depends on:
+PopCorn in PopCorn (explicit)
+PopCornTests in PopCorn, depends on:
+PopCorn in PopCorn (explicit)
+PopCornTests in PopCorn, no dependencies
+PopCornUITests in PopCorn, depends on:
+PopCorn in PopCorn (explicit)
+PopCornUITests in PopCorn, depends on:
+PopCorn in PopCorn (explicit)
+PopCornUITests in PopCorn, no dependencies
